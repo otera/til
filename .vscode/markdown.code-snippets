@@ -1,0 +1,8 @@
+{
+  "GFM:pre": {
+    "scope": "markdown",
+    "prefix": "pre",
+    "body": ["```$1", "$2", "```"],
+    "description": "syntax highlighting"
+  }
+}
